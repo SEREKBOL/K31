@@ -302,4 +302,3 @@ if __name__ == "__main__":
     except Exception as e:
         print_rainbow(f"\n[!] Unexpected error: {str(e)}")
         sys.exit()
-
