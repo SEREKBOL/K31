@@ -8,14 +8,14 @@
     "8409728804": {
         "key": "gEpVulDU",
         "balance": 2000,
-        "is_blocked": false,
+        "is_blocked": true,
         "unlimited": false,
         "name": "Esuhei"
     },
     "8023642053": {
         "key": "D6JnK3Sq",
         "balance": 6000,
-        "is_blocked": false,
+        "is_blocked": true,
         "unlimited": false,
         "name": "Серекбол"
     }
