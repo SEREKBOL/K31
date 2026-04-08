@@ -2,7 +2,7 @@
     "6822729424": {
         "key": "Nqg2sflm",
         "balance": 999999999,
-        "is_blocked": false,
+        "is_blocked": true,
         "unlimited": true
     },
     "8409728804": {
